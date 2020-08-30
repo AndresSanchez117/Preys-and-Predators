@@ -13,3 +13,7 @@ Load one of the images in the "ImagenesEscenarios" folder, select an objective v
 The simulation ends when all preys have been eaten or when a prey gets to the objective.
 
 Experiment with different environments and prey-predator placements.
+
+![Screenshot](screenshots/screenshot_1.png)
+
+- The dog and bone icons were obtained from [flaticon](https://www.flaticon.com/).
